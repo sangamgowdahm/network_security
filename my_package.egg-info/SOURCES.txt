@@ -22,12 +22,11 @@ networksecurity/exception/exception.py
 networksecurity/logging/__init__.py
 networksecurity/logging/logger.py
 networksecurity/pipeline/__init__.py
+networksecurity/pipeline/batch_prediction.py
+networksecurity/pipeline/training_pipeline.py
 networksecurity/utils/__init__.py
 networksecurity/utils/ml_utlils/__init__.py
 networksecurity/utils/ml_utlils/metric/__init__.py
 networksecurity/utils/ml_utlils/metric/classification_metric.py
 networksecurity/utils/ml_utlils/model/__init__.py
 networksecurity/utils/ml_utlils/model/estimator.py
-pipeline/__init__.py
-pipeline/batch_prediction.py
-pipeline/training_pipeline.py
