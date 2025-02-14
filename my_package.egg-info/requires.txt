@@ -1,0 +1,12 @@
+pandas
+numpy
+dill
+scikit-learn
+python-dotenv
+flask
+certifi
+pymongo[srv]
+pymongo
+pyaml
+mlflow
+dagshub
