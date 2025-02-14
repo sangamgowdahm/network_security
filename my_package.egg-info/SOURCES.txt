@@ -28,3 +28,6 @@ networksecurity/utils/ml_utlils/metric/__init__.py
 networksecurity/utils/ml_utlils/metric/classification_metric.py
 networksecurity/utils/ml_utlils/model/__init__.py
 networksecurity/utils/ml_utlils/model/estimator.py
+pipeline/__init__.py
+pipeline/batch_prediction.py
+pipeline/training_pipeline.py
